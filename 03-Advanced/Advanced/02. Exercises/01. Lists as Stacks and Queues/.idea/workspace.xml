@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7ee5917-cbd2-4c4a-8fb7-a471a5569522" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n9lCSZ9JOmS0CbyyzGfz5WVYb3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MTCustomThemeConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.10. Cups and Bottles">
+    <configuration name="07. Robotics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01. Lists as Stacks and Queues" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. Robotics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07.2 Robotics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01. Lists as Stacks and Queues" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07.2 Robotics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08.Crossroads" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01. Lists as Stacks and Queues" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08.Crossroads.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09. Key Revolver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01. Lists as Stacks and Queues" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09. Key Revolver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10. Cups and Bottles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01. Lists as Stacks and Queues" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10. Cups and Bottles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.10. Cups and Bottles" />
+        <item itemvalue="Python.09. Key Revolver" />
+        <item itemvalue="Python.08.Crossroads" />
+        <item itemvalue="Python.07. Robotics" />
+        <item itemvalue="Python.07.2 Robotics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7ee5917-cbd2-4c4a-8fb7-a471a5569522" name="Default Changelist" comment="" />
+      <created>1610810059393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610810059393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1280" height="207" key="GridCell.Tab.0.bottom" timestamp="1611767065260">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1197" height="216" key="GridCell.Tab.0.bottom/0.0.1218.720@0.0.1218.720" timestamp="1611506915671" />
+    <state width="1280" height="207" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1611767065260" />
+    <state width="1280" height="207" key="GridCell.Tab.0.center" timestamp="1611767065259">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1197" height="216" key="GridCell.Tab.0.center/0.0.1218.720@0.0.1218.720" timestamp="1611506915671" />
+    <state width="1280" height="207" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1611767065259" />
+    <state width="1280" height="207" key="GridCell.Tab.0.left" timestamp="1611767065259">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1197" height="216" key="GridCell.Tab.0.left/0.0.1218.720@0.0.1218.720" timestamp="1611506915671" />
+    <state width="1280" height="207" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1611767065259" />
+    <state width="1280" height="207" key="GridCell.Tab.0.right" timestamp="1611767065260">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1197" height="216" key="GridCell.Tab.0.right/0.0.1218.720@0.0.1218.720" timestamp="1611506915671" />
+    <state width="1280" height="207" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1611767065260" />
+    <state width="1280" height="278" key="GridCell.Tab.1.bottom" timestamp="1611767065255">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1197" height="216" key="GridCell.Tab.1.bottom/0.0.1218.720@0.0.1218.720" timestamp="1611506915506" />
+    <state width="1280" height="278" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1611767065255" />
+    <state width="1280" height="278" key="GridCell.Tab.1.center" timestamp="1611767065255">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1197" height="216" key="GridCell.Tab.1.center/0.0.1218.720@0.0.1218.720" timestamp="1611506915506" />
+    <state width="1280" height="278" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1611767065255" />
+    <state width="1280" height="278" key="GridCell.Tab.1.left" timestamp="1611767065255">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1197" height="216" key="GridCell.Tab.1.left/0.0.1218.720@0.0.1218.720" timestamp="1611506915506" />
+    <state width="1280" height="278" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1611767065255" />
+    <state width="1280" height="278" key="GridCell.Tab.1.right" timestamp="1611767065255">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1197" height="216" key="GridCell.Tab.1.right/0.0.1218.720@0.0.1218.720" timestamp="1611506915506" />
+    <state width="1280" height="278" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1611767065255" />
+    <state x="233" y="0" key="SettingsEditor" timestamp="1611763061368">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="222" y="0" key="SettingsEditor/0.0.1218.720@0.0.1218.720" timestamp="1610917895570" />
+    <state x="233" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1611763061368" />
+    <state x="213" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610986364989">
+      <screen x="0" y="0" width="1218" height="720" />
+    </state>
+    <state x="213" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1218.720@0.0.1218.720" timestamp="1610986364989" />
+    <state x="286" y="41" width="707" height="678" key="search.everywhere.popup" timestamp="1611762582276">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="272" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1218.720@0.0.1218.720" timestamp="1611506484971" />
+    <state x="286" y="41" width="707" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1611762582276" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01. Reverse Numbers with a Stack.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02. Maximum and Minimum Element.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02.202. Maximum and Minimum Element.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03. Fast Food.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04. Fashion Boutique.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05.2 Truck Tour.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06. Balanced Parentheses.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08.Crossroads.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/09. Key Revolver.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10. Cups and Bottles.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

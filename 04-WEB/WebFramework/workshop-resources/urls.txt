@@ -1,0 +1,21 @@
+Home Page: http://127.0.0.1:8000/ 
+Dashboard Page: http://127.0.0.1:8000/dashboard/ 
+Profile Page: http://127.0.0.1:8000/profile/ 
+Photo Details Page: http://127.0.0.1:8000/photo/details/photo_id/
+
+
+Create Profile Page: http://127.0.0.1:8000/profile/create/  
+Add Pet Page: http://127.0.0.1:8000/pet/add/  
+Pet Edit Page: http://127.0.0.1:8000/pet/edit/<pet_id>/ 
+Pet Delete Page: http://127.0.0.1:8000/pet/delete/<pet_id>/ 
+Add Photo Page: http://127.0.0.1:8000/photo/add/  
+Photo Edit Page: http://127.0.0.1:8000/photo/edit/<photo_id>/ 
+Profile Edit Page: http://127.0.0.1:8000/profile/edit/ 
+Profile Delete Page: http://127.0.0.1:8000/profile/delete/
+
+
+localhost:8000/accounts/create-profile/' - create profile page
+localhost:8000/accounts/login/' - login page
+localhost:8000/accounts/profile/<int:pk>/' - profile details page
+localhost:8000/accounts/edit-profile/<int:pk>/' - edit profile page
+localhost:8000/accounts/edit-password/<int:pk>/' - edit profile page

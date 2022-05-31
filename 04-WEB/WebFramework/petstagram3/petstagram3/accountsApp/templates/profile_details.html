@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% block content %}
+    <!-- Profile Information -->
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="d-flex">
+                <div class="d-inline p-2 w-50">
+                    {% if not object.profile.avatar %}
+                        <img src="https://icon-library.com/images/profile-picture-icon/profile-picture-icon-9.jpg"
+                             class="w-50 rounded mx-auto d-block" alt="description">
+                    {% else %}
+                        <img src="{{ object.profile.avatar }}"
+                             class="w-50 rounded mx-auto d-block" alt="description">
+                    {% endif %}
+                </div>
+                <div class="d-inline p-2 w-50">
+                    <div class="d-flex flex-column">
+                        <h5><u>Name:</u> {{ object.profile.first_name }} {{ object.profile.last_name }}</h5>
+                        <!-- If Date of Birth -->
+                        <h5><u>Birthdate:</u> {{ object.profile.birth }}</h5>
+                        <!-- If Email -->
+                        <h5><u>Email:</u> {{ object.profile.email }}</h5>
+                        <!-- If Gender is Chosen -->
+                        <h5><u>Gender:</u> {{ object.profile.gender }}</h5>
+                        <!-- If Description -->
+                        <h5><u>Description:</u> {{ object.profile.description }}</h5>
+                    </div>
+                    <p class="mt-2">Total Images: {{ images_count }}</p>
+                    <p class="mt-2">Total Likes: {{ likes_count }}</p>
+                    <a href="{% url 'profileEdit' object.pk %}" class="btn btn-primary">Edit</a>
+                    <a href="{% url 'profileDelete' object.pk %}" class="btn btn-danger">Delete</a>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}

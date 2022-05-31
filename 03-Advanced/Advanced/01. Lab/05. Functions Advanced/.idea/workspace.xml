@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="793dc554-3387-4d10-bd1e-5fc18faf2825" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oDJJTIWDm96HOgaUkMA2bpkF8j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.06. Character Combinations(Geeks)">
+    <configuration name="06. Character Combinations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="05. Functions Advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06. Character Combinations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06. Character Combinations(Geeks)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="05. Functions Advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06. Character Combinations(Geeks).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07. Chairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="05. Functions Advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. Chairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07. My Chairs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="05. Functions Advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. My Chairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08. Expressions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="05. Functions Advanced" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08. Expressions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.06. Character Combinations(Geeks)" />
+        <item itemvalue="Python.06. Character Combinations" />
+        <item itemvalue="Python.07. My Chairs" />
+        <item itemvalue="Python.07. Chairs" />
+        <item itemvalue="Python.08. Expressions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="793dc554-3387-4d10-bd1e-5fc18faf2825" name="Default Changelist" comment="" />
+      <created>1612815155359</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612815155359</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1217" height="240" key="GridCell.Tab.0.bottom" timestamp="1614171702287">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1219" height="246" key="GridCell.Tab.0.bottom/62.0.1218.720@62.0.1218.720" timestamp="1612964105708" />
+    <state width="1217" height="240" key="GridCell.Tab.0.bottom/63.0.1217.720@63.0.1217.720" timestamp="1614171702287" />
+    <state width="1214" height="246" key="GridCell.Tab.0.bottom/67.0.1213.720@67.0.1213.720" timestamp="1613213087836" />
+    <state width="1217" height="240" key="GridCell.Tab.0.center" timestamp="1614171702287">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1219" height="246" key="GridCell.Tab.0.center/62.0.1218.720@62.0.1218.720" timestamp="1612964105708" />
+    <state width="1217" height="240" key="GridCell.Tab.0.center/63.0.1217.720@63.0.1217.720" timestamp="1614171702287" />
+    <state width="1214" height="246" key="GridCell.Tab.0.center/67.0.1213.720@67.0.1213.720" timestamp="1613213087836" />
+    <state width="1217" height="240" key="GridCell.Tab.0.left" timestamp="1614171702287">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1219" height="246" key="GridCell.Tab.0.left/62.0.1218.720@62.0.1218.720" timestamp="1612964105708" />
+    <state width="1217" height="240" key="GridCell.Tab.0.left/63.0.1217.720@63.0.1217.720" timestamp="1614171702287" />
+    <state width="1214" height="246" key="GridCell.Tab.0.left/67.0.1213.720@67.0.1213.720" timestamp="1613213087836" />
+    <state width="1217" height="240" key="GridCell.Tab.0.right" timestamp="1614171702287">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1219" height="246" key="GridCell.Tab.0.right/62.0.1218.720@62.0.1218.720" timestamp="1612964105708" />
+    <state width="1217" height="240" key="GridCell.Tab.0.right/63.0.1217.720@63.0.1217.720" timestamp="1614171702287" />
+    <state width="1214" height="246" key="GridCell.Tab.0.right/67.0.1213.720@67.0.1213.720" timestamp="1613213087836" />
+    <state width="1217" height="240" key="GridCell.Tab.1.bottom" timestamp="1614171702287">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1219" height="246" key="GridCell.Tab.1.bottom/62.0.1218.720@62.0.1218.720" timestamp="1612964105709" />
+    <state width="1217" height="240" key="GridCell.Tab.1.bottom/63.0.1217.720@63.0.1217.720" timestamp="1614171702287" />
+    <state width="1214" height="246" key="GridCell.Tab.1.bottom/67.0.1213.720@67.0.1213.720" timestamp="1613213087667" />
+    <state width="1217" height="240" key="GridCell.Tab.1.center" timestamp="1614171702287">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1219" height="246" key="GridCell.Tab.1.center/62.0.1218.720@62.0.1218.720" timestamp="1612964105709" />
+    <state width="1217" height="240" key="GridCell.Tab.1.center/63.0.1217.720@63.0.1217.720" timestamp="1614171702287" />
+    <state width="1214" height="246" key="GridCell.Tab.1.center/67.0.1213.720@67.0.1213.720" timestamp="1613213087666" />
+    <state width="1217" height="240" key="GridCell.Tab.1.left" timestamp="1614171702287">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1219" height="246" key="GridCell.Tab.1.left/62.0.1218.720@62.0.1218.720" timestamp="1612964105709" />
+    <state width="1217" height="240" key="GridCell.Tab.1.left/63.0.1217.720@63.0.1217.720" timestamp="1614171702287" />
+    <state width="1214" height="246" key="GridCell.Tab.1.left/67.0.1213.720@67.0.1213.720" timestamp="1613213087666" />
+    <state width="1217" height="240" key="GridCell.Tab.1.right" timestamp="1614171702287">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1219" height="246" key="GridCell.Tab.1.right/62.0.1218.720@62.0.1218.720" timestamp="1612964105709" />
+    <state width="1217" height="240" key="GridCell.Tab.1.right/63.0.1217.720@63.0.1217.720" timestamp="1614171702287" />
+    <state width="1214" height="246" key="GridCell.Tab.1.right/67.0.1213.720@67.0.1213.720" timestamp="1613213087667" />
+    <state x="192" y="65" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1613235761888">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="192" y="65" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/63.0.1217.720@63.0.1217.720" timestamp="1613235761887" />
+    <state x="336" y="41" width="675" height="678" key="search.everywhere.popup" timestamp="1613252467053">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="334" y="41" width="672" height="678" key="search.everywhere.popup/62.0.1218.720@62.0.1218.720" timestamp="1612887792640" />
+    <state x="336" y="41" width="675" height="678" key="search.everywhere.popup/63.0.1217.720@63.0.1217.720" timestamp="1613252467053" />
+    <state x="339" y="41" width="672" height="678" key="search.everywhere.popup/67.0.1213.720@67.0.1213.720" timestamp="1613212638595" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/01. Absolute Values.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07. Chairs.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07. My Chairs.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06. Character Combinations.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06. Character Combinations(Geeks).py</url>
+          <line>17</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

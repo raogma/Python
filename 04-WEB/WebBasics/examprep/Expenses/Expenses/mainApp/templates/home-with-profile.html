@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="body">
+    <!-- Summary -->
+    <div>
+        <h1>Summary</h1>
+        <ul class="expenses-list">
+            <li class="blue">{{ profile.format_budget }}$</li>
+        {% for exp in exps %}
+            <li class="red"> - {{ exp.format_price }}$</li>
+        {% endfor %}
+            <li class="green">= {{ money_left }}$ left</li>
+        </ul>
+    </div>
+    <!-- End Summary -->
+
+    <!-- Headline My Expenses -->
+    <h1>My Expenses</h1>
+    <!-- Add Expense Button -->
+    <a class="button add" href="{% url 'createExp' %}">Add Expense</a>
+
+    <div class="expenses-container">
+
+    {% for exp in exps %}
+         <div class="expense-container">
+            <!-- Expense Title -->
+            <h2>{{ exp.title }}</h2>
+            <!-- Expense Image -->
+            <img src="{{ exp.expense_image }}" alt="description">
+            <!-- Expense Description -->
+            <p>{{ exp.description }}</p>
+            <div class="expense-detail">
+                <div>
+                    <!-- Expense Price -->
+                    <p>Price: {{ exp.format_price }}$</p>
+                </div>
+                <div class="right">
+                    <!-- Edit Expense Button -->
+                    <a class="button edit" href="{% url 'editExp' exp.pk %}">Edit</a>
+                    <!-- Delete Expense Button -->
+                    <a class="button delete" href="{% url 'deleteExp' exp.pk %}">Delete</a>
+                </div>
+            </div>
+        </div>
+        <!-- End First Expense Container -->
+
+    {% endfor %}
+
+    </div>
+</div>
+{% endblock %}

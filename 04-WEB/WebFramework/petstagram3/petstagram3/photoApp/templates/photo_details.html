@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="container">
+        <div class="d-flex">
+            <div class="d-inline p-2 w-50">
+                <!-- Image -->
+                <img src="{{ object.photo.url }}"
+                     class="w-100 rounded mx-auto d-block" alt="Photo description">
+            </div>
+            <div class="d-inline p-2 w-50">
+                {% for pet in object.tagged_pets.all %}
+                    <div class="d-flex justify-content-around">
+                        <h5><u>Type:</u> {{ pet.type }}</h5>
+                        <h5><u>Name:</u> {{ pet.name }}</h5>
+                        {% if pet.birth %}
+                            <h5><u>Age:</u> {{ pet.age }}</h5>
+                        {% endif %}
+                    </div>
+                {% endfor %}
+
+                <!-- Description -->
+                <p class="mt-2">Description: {{ object.description }}</p>
+                <!-- Likes Button -->
+                {% if not is_owner %}
+                <a href=""><i class="fa fa-heart-o" aria-hidden="true"></i></a>
+                {% endif %}
+                <!-- Likes Counter -->
+                <p class="mt-2">Likes: {{ object.likes }}</p>
+                <!-- Buttons -->
+                {% if self.request.user.pk == self.object.owner.pk %}
+                <a href="{% url 'editPhotoPath' object.pk %}" class="btn btn-primary">Edit</a>
+                <a href="{% url 'petDeletePath' object.pk %}" class="btn btn-danger">Delete</a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+{% endblock %}

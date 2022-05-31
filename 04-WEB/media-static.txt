@@ -1,0 +1,19 @@
+<-> urls.py 
+	urlpatterns = [] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+
+<-> settings.py
+
+STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static'), ]
+
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
+MEDIA_URL = 'media/'
+
+<-> index.html
+
+	<form method="POST" action="{% url 'createPhotoPath' %}" enctype="multipart/form-data">
+            {{ form }}
+            {% csrf_token %}
+            <button class="btn btn-primary mt-2" type="submit">Create</button>
+        </form>

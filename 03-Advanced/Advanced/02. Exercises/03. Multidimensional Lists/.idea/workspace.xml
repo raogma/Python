@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf59319f-499d-41a7-b7cf-49903ee4c35a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nsv62VrigaYDKPabf4u5ktnvHR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.09. Mutate Bunnies(masterpiece)">
+    <configuration name="06.2 Knight Game(shorter no time lime no ifs)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="03. Multidimensional Lists" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\raich\Desktop\SoftUni\Advanced\02. Exercises\03. Multidimensional Lists\06.2 Knight Game(shorter no time lime no ifs).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08. Expressions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="03. Multidimensional Lists" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../01. Lab/05. Functions Advanced" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../01. Lab/05. Functions Advanced/08. Expressions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08. Miner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="03. Multidimensional Lists" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08. Miner.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09. Mutate Bunnies(masterpiece)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="03. Multidimensional Lists" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09. Mutate Bunnies(masterpiece).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09. Radioactive Mutate Vampire Bunnies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="03. Multidimensional Lists" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09. Radioactive Mutate Vampire Bunnies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="03. Multidimensional Lists" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.09. Mutate Bunnies(masterpiece)" />
+        <item itemvalue="Python.08. Expressions" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.09. Radioactive Mutate Vampire Bunnies" />
+        <item itemvalue="Python.08. Miner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf59319f-499d-41a7-b7cf-49903ee4c35a" name="Default Changelist" comment="" />
+      <created>1612191433699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612191433699</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="255" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1612531820005">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="495" y="255" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/62.0.1218.720@62.0.1218.720" timestamp="1612531820005" />
+    <state width="1195" height="223" key="GridCell.Tab.0.bottom" timestamp="1613897257674">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1280" height="208" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1612288446208" />
+    <state width="1219" height="196" key="GridCell.Tab.0.bottom/62.0.1218.720@62.0.1218.720" timestamp="1612603959432" />
+    <state width="1195" height="223" key="GridCell.Tab.0.bottom/63.0.1217.720@63.0.1217.720" timestamp="1613897257674" />
+    <state width="1195" height="223" key="GridCell.Tab.0.center" timestamp="1613897257674">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1280" height="208" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1612288446208" />
+    <state width="1219" height="196" key="GridCell.Tab.0.center/62.0.1218.720@62.0.1218.720" timestamp="1612603959432" />
+    <state width="1195" height="223" key="GridCell.Tab.0.center/63.0.1217.720@63.0.1217.720" timestamp="1613897257674" />
+    <state width="1195" height="223" key="GridCell.Tab.0.left" timestamp="1613897257674">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1280" height="208" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1612288446208" />
+    <state width="1219" height="196" key="GridCell.Tab.0.left/62.0.1218.720@62.0.1218.720" timestamp="1612603959432" />
+    <state width="1195" height="223" key="GridCell.Tab.0.left/63.0.1217.720@63.0.1217.720" timestamp="1613897257674" />
+    <state width="1195" height="223" key="GridCell.Tab.0.right" timestamp="1613897257674">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1280" height="208" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1612288446208" />
+    <state width="1219" height="196" key="GridCell.Tab.0.right/62.0.1218.720@62.0.1218.720" timestamp="1612603959432" />
+    <state width="1195" height="223" key="GridCell.Tab.0.right/63.0.1217.720@63.0.1217.720" timestamp="1613897257674" />
+    <state width="1195" height="223" key="GridCell.Tab.1.bottom" timestamp="1613897257674">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1280" height="260" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1612288446201" />
+    <state width="1219" height="220" key="GridCell.Tab.1.bottom/62.0.1218.720@62.0.1218.720" timestamp="1612562365633" />
+    <state width="1195" height="223" key="GridCell.Tab.1.bottom/63.0.1217.720@63.0.1217.720" timestamp="1613897257674" />
+    <state width="1195" height="223" key="GridCell.Tab.1.center" timestamp="1613897257674">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1280" height="260" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1612288446201" />
+    <state width="1219" height="220" key="GridCell.Tab.1.center/62.0.1218.720@62.0.1218.720" timestamp="1612562365633" />
+    <state width="1195" height="223" key="GridCell.Tab.1.center/63.0.1217.720@63.0.1217.720" timestamp="1613897257674" />
+    <state width="1195" height="223" key="GridCell.Tab.1.left" timestamp="1613897257674">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1280" height="260" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1612288446201" />
+    <state width="1219" height="220" key="GridCell.Tab.1.left/62.0.1218.720@62.0.1218.720" timestamp="1612562365633" />
+    <state width="1195" height="223" key="GridCell.Tab.1.left/63.0.1217.720@63.0.1217.720" timestamp="1613897257674" />
+    <state width="1195" height="223" key="GridCell.Tab.1.right" timestamp="1613897257674">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state width="1280" height="260" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1612288446201" />
+    <state width="1219" height="220" key="GridCell.Tab.1.right/62.0.1218.720@62.0.1218.720" timestamp="1612562365633" />
+    <state width="1195" height="223" key="GridCell.Tab.1.right/63.0.1217.720@63.0.1217.720" timestamp="1613897257674" />
+    <state x="157" y="5" key="SettingsEditor" timestamp="1612440243323">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state x="157" y="5" key="SettingsEditor/62.0.1218.720@62.0.1218.720" timestamp="1612440243323" />
+    <state width="616" height="367" key="XDebugger.FullValuePopup" timestamp="1612354992159">
+      <screen x="62" y="0" width="1218" height="720" />
+    </state>
+    <state width="616" height="367" key="XDebugger.FullValuePopup/62.0.1218.720@62.0.1218.720" timestamp="1612354992159" />
+    <state x="423" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1613478518893">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="423" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/63.0.1217.720@63.0.1217.720" timestamp="1613478518893" />
+    <state x="433" y="218" key="scopes" timestamp="1612208898251">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="433" y="218" key="scopes/0.0.1280.720@0.0.1280.720" timestamp="1612208898251" />
+    <state x="351" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1613888415570">
+      <screen x="63" y="0" width="1217" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1612260849120" />
+    <state x="350" y="41" width="672" height="678" key="search.everywhere.popup/62.0.1218.720@62.0.1218.720" timestamp="1612603092515" />
+    <state x="351" y="41" width="672" height="678" key="search.everywhere.popup/63.0.1217.720@63.0.1217.720" timestamp="1613888415570" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04. Matrix Shuffling.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06.2 Knight Game(shorter no time lime no ifs).py</url>
+          <line>22</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/09. Radioactive Mutate Vampire Bunnies.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/09. Mutate Bunnies(masterpiece).py</url>
+          <line>51</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

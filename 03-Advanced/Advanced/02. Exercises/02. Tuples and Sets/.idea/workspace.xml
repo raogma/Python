@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2243c578-6912-4306-a544-a1a34d9b3eae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nhutF6hMPZ821zoJrHADJSW077" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.07. Battle of Names">
+    <configuration name="03. Periodic Table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="02. Tuples and Sets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03. Periodic Table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="04. Count Symbols" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="02. Tuples and Sets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04. Count Symbols.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05. Phonebook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="02. Tuples and Sets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05. Phonebook.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06. Longest Intersection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="02. Tuples and Sets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06. Longest Intersection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07. Battle of Names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="02. Tuples and Sets" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07. Battle of Names.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.07. Battle of Names" />
+        <item itemvalue="Python.06. Longest Intersection" />
+        <item itemvalue="Python.05. Phonebook" />
+        <item itemvalue="Python.04. Count Symbols" />
+        <item itemvalue="Python.03. Periodic Table" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2243c578-6912-4306-a544-a1a34d9b3eae" name="Default Changelist" comment="" />
+      <created>1611854856784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611854856784</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611933018481">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="400" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1611933018481" />
+    <state x="475" y="123" key="FileChooserDialogImpl" timestamp="1611855052988">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="475" y="123" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1611855052988" />
+    <state width="110" height="692" key="GridCell.Tab.0.bottom" timestamp="1611941806004">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="110" height="692" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1611941806004" />
+    <state width="110" height="692" key="GridCell.Tab.0.center" timestamp="1611941806004">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="110" height="692" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1611941806004" />
+    <state width="110" height="692" key="GridCell.Tab.0.left" timestamp="1611941806004">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="110" height="692" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1611941806004" />
+    <state width="110" height="692" key="GridCell.Tab.0.right" timestamp="1611941806004">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="110" height="692" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1611941806004" />
+    <state width="110" height="692" key="GridCell.Tab.1.bottom" timestamp="1611941806005">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="110" height="692" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1611941806005" />
+    <state width="110" height="692" key="GridCell.Tab.1.center" timestamp="1611941806004">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="110" height="692" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1611941806004" />
+    <state width="110" height="692" key="GridCell.Tab.1.left" timestamp="1611941806004">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="110" height="692" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1611941806004" />
+    <state width="110" height="692" key="GridCell.Tab.1.right" timestamp="1611941806005">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="110" height="692" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1611941806005" />
+    <state x="157" y="5" key="SettingsEditor" timestamp="1611939894790">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="157" y="5" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1611939894790" />
+    <state x="417" y="227" width="564" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1611855237684">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="417" y="227" width="564" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1280.720@0.0.1280.720" timestamp="1611855237684" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1611939427290">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1611939427290" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../01. Lists as Stacks and Queues/07.2 Robotics!!!!!!!!!!!!!!!!.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06. Longest Intersection.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07. Battle of Names.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
